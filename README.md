@@ -4,7 +4,7 @@ Aprenda HTML, CSS e SEO de forma simples, prática e objetiva desenvolvendo pass
 ### Planejamento
 [cetic](https://www.cetic.br/)
 # wireframe
-[draw]
+[draw](https://app.diagrams.net/)
 # Personal Designer
 [Matheus da Costa](http://mathesdacosta.art.br/)
 # Tipografia
