@@ -17,3 +17,8 @@ Aprenda HTML, CSS e SEO de forma simples, prática e objetiva desenvolvendo pass
 [iconfinder](https://www.iconfinder.com/)
 
 [optimizilla](https://imagecompressor.com/)
+
+# Validação W3C
+[HTML](https://validator.w3.org/nu/#file)
+
+[CSS](https://jigsaw.w3.org/css-validator/validator)
